@@ -32,7 +32,7 @@ We use SHAP to ensure clinical transparency:
 * **Global Importance (`mean_shap.png`)**:
 ![Global SHAP](mean_shap.png)
 
-* **Class-Specific Explanations (`shap_class_0.png` & `shap_class_1.png`)**:
+* **Class-Specific Explanations (`shap_class_0.png` & `shap_class_1.png` & `shap_class_2.png` & `shap_class_3.png` & `shap_class_4.png`)**:
 ![SHAP Class 0](shap_class_0.png)
 ![SHAP Class 1](shap_class_1.png)
 ![SHAP Class 1](shap_class_2.png)
