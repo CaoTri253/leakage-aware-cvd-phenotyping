@@ -35,7 +35,9 @@ We use SHAP to ensure clinical transparency:
 * **Class-Specific Explanations (`shap_class_0.png` & `shap_class_1.png`)**:
 ![SHAP Class 0](shap_class_0.png)
 ![SHAP Class 1](shap_class_1.png)
-
+![SHAP Class 1](shap_class_2.png)
+![SHAP Class 1](shap_class_3.png)
+![SHAP Class 1](shap_class_4.png)
 ---
 
 ## 📈 How to Re-generate
