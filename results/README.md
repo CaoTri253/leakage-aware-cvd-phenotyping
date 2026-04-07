@@ -5,22 +5,36 @@ This directory contains the comprehensive evaluation results and interpretabilit
 ## 📋 Summary of Figures
 
 ### 1. Framework & Workflow
-* **`pipeline_workflow.jpg`**: A high-level overview of the end-to-end architecture, from data ingestion to cardiovascular phenotyping.
+* **`pipeline_workflow.jpg`**: A high-level overview of the end-to-end architecture.
+![Workflow](pipeline_workflow.jpg)
 
 ### 2. Model Optimization & Feature Selection
-* **`fig1_optuna_history.png`**: Visualization of the hyperparameter optimization process using Optuna, showing the convergence towards the objective value.
-* **`Feature_Selection_Funnel.png`**: Illustrates the step-by-step reduction of the feature space based on clinical constraints and statistical importance.
+* **`fig1_optuna_history.png`**: Convergence of hyperparameter optimization.
+![Optuna History](fig1_optuna_history.png)
+
+* **`Feature_Selection_Funnel.png`**: Step-by-step feature reduction.
+![Feature Selection](Feature_Selection_Funnel.png)
 
 ### 3. Performance Metrics (Multi-Class Evaluation)
-* **`confusion_matrix.png`**: Detailed breakdown of true vs. predicted labels for each cardiovascular phenotype.
-* **`multi-class_roc.png`**: Receiver Operating Characteristic curves showing the True Positive Rate vs. False Positive Rate across all classes.
-* **`multi-class_precision-recall.png`**: PR curves, which are particularly crucial for assessing model performance in the context of imbalanced EHR data.
-* **`performance_radar.png`**: A radar (spider) chart comparing multiple metrics (Accuracy, F1, Precision, Recall) to provide a holistic view of model stability.
+* **`confusion_matrix.png`**: Breakdown of true vs. predicted labels.
+![Confusion Matrix](confusion_matrix.png)
+
+* **`multi-class_roc.png`** & **`multi-class_precision-recall.png`**:
+Standard evaluation curves for EHR data.
+![ROC Curve](multi-class_roc.png)
+![PR Curve](multi-class_precision-recall.png)
+
+* **`performance_radar.png`**: Holistic view of model stability across metrics.
+![Radar Chart](performance_radar.png)
 
 ### 4. Model Interpretability (SHAP Analysis)
-We use SHAP (SHapley Additive exPlanations) to ensure the clinical transparency of the "Black Box" model:
-* **`mean_shap.png`**: Global feature importance showing the top predictors for the overall model.
-* **`shap_class_0.png` & `shap_class_1.png`**: Local explanations for specific cardiovascular phenotypes, identifying which clinical features drive the prediction for each class.
+We use SHAP to ensure clinical transparency:
+* **Global Importance (`mean_shap.png`)**:
+![Global SHAP](mean_shap.png)
+
+* **Class-Specific Explanations (`shap_class_0.png` & `shap_class_1.png`)**:
+![SHAP Class 0](shap_class_0.png)
+![SHAP Class 1](shap_class_1.png)
 
 ---
 
