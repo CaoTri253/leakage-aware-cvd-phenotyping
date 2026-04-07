@@ -4,7 +4,7 @@
 This directory contains the core computational pipeline for the cardiovascular phenotyping framework.
 
 ## 📄 Main Pipeline
-- **`pipeline_Final_(Nộp).ipynb`**: This is the primary notebook for the study. It implements the "Leakage-Aware, Clinically Constrained" framework.
+- **`leakage-aware-cvd-phenotyping.ipynb`**: This is the primary notebook for the study. It implements the "Leakage-Aware, Clinically Constrained" framework.
 
 ## 🛠 Notebook Structure
 The pipeline is organized into the following logical sections to ensure clarity and reproducibility:
