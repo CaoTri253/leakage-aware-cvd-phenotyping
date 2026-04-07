@@ -46,4 +46,5 @@ Usage of this data follows the PhysioNet Credentialed Health Data Use Agreement.
 Upon running the training phase, the pipeline automatically generates two audit files in the `BASE_PATH_EXT` directory for clinical transparency:
 - `pipeline6_audit_feature_definitions_TEXT.csv`
 - `pipeline6_audit_feature_definitions_CARDIAC.csv`
+---
 *Note: In compliance with HIPAA and PhysioNet DUA, no patient-level data is redistributed in this repository.*
