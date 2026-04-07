@@ -6,7 +6,7 @@ This directory contains the comprehensive evaluation results and interpretabilit
 
 ### 1. Framework & Workflow
 * **`pipeline_workflow.jpg`**: A high-level overview of the end-to-end architecture.
-![Workflow](pipeline_workflow.jpeg)
+![Workflow](pipeline_workflow.png)
 
 ### 2. Model Optimization & Feature Selection
 * **`fig1_optuna_history.png`**: Convergence of hyperparameter optimization.
