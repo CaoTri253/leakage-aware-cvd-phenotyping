@@ -25,12 +25,6 @@ Required for patient demographics (Module 2.4):
 - `patients.csv.gz`: For gender and anchor age.
 - `admissions.csv.gz`: For admission times and ethnicity (race).
 
-### 3. Intermediate Processing Directory (`SAVE_DIR`)
-Path: `/content/drive/MyDrive/MIMIC DATASET/READY_TO_TRAIN/`
-The pipeline requires output from **Code Cell 2** to be present:
-- `pipeline6_(Y_TARGET)_dataset_main.csv`
-- `pipeline6_(Y_TARGET)dataset_external_validate.csv`
-
 ---
 
 ## 🛠 Feature Engineering Modules
@@ -43,8 +37,5 @@ The pipeline extracts features across five specialized modules:
 
 ## ⚖️ Ethical & Audit Information
 Usage of this data follows the PhysioNet Credentialed Health Data Use Agreement. Please do not re-distribute the data files in this repository.
-Upon running the training phase, the pipeline automatically generates two audit files in the `BASE_PATH_EXT` directory for clinical transparency:
-- `pipeline6_audit_feature_definitions_TEXT.csv`
-- `pipeline6_audit_feature_definitions_CARDIAC.csv`
 ---
 *Note: In compliance with HIPAA and PhysioNet DUA, no patient-level data is redistributed in this repository.*
