@@ -9,7 +9,7 @@ Both datasets are restricted-access resources hosted on PhysioNet. To run this p
 3. Request access to **MIMIC-IV-Ext-Cardiac-Disease**: [Link](https://physionet.org/content/mimic-iv-ext-cardiac-disease/1.0.0/)
 
 ## 📁 Required File Structure & Setup
-The pipeline (Code Cell 3) is configured to look for data in the following Google Drive paths. Please ensure your files are organized as follows:
+The pipeline is configured to look for data in the following Google Drive paths. Please ensure your files are organized as follows:
 
 ### 1. Cardiovascular Extension Data (`BASE_PATH_EXT`)
 Path: `/content/drive/MyDrive/MIMIC DATASET/mimic-iv-ext-cardiac-disease/`
