@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Cao"
+    given-names: "Trí"
+    orcid: "https://orcid.org/0009-0005-9683-0053"
+title: "A Leakage-Aware, Clinically Constrained Machine Learning Framework for Multi-Class Cardiovascular Phenotyping"
+version: 1.0.0
+date-released: 2026-04-08
+url: "https://github.com/ntdctu/leakage-aware-cvd-phenotyping"
