@@ -12,6 +12,10 @@ To reproduce the results, you can run the pipeline directly in Google Colab:
 * `data/`: Documentation on how to access and prepare MIMIC-IV data.
 * `results/`: Visualizations, Confusion Matrices, and Performance Metrics.
 
+## 📊 Dataset
+We utilize the **MIMIC-IV-Ext-Cardiac-Disease** (v1.0.0), a specialized extension of MIMIC-IV. 
+- Link: [PhysioNet Repository](https://physionet.org/content/mimic-iv-ext-cardiac-disease/1.0.0/)
+
 ## 🛠 Prerequisites
 The following libraries are required (automatically installed in the Colab link above):
 `xgboost`, `scikit-learn`, `pandas`, `numpy`, `matplotlib`, `seaborn`
