@@ -74,6 +74,7 @@ If you use this code or framework in your research, please cite our paper:
 @article{nguyen2026leakage,
   title={A Leakage-Aware, Clinically Constrained Machine Learning Framework for Multi-Class Cardiovascular Phenotyping from EHR Data},
   author={Nguyen, Dat Tan and Cao, Minh-Tri and Le, Minh Huu Nhat and Phung, Thu Minh and Le, Duy Viet and Huynh, Tan Phat and Nguyen, Ngoc-Nguyen Thi and Kha, Quang-Hien and Le, Nguyen Quoc Khanh},
-  journal={To be submitted / Journal Name},
-  year={2026}
+  journal={To be submitted},
+  year={2026},
+  url={https://github.com/CaoTri253/leakage-aware-cvd-phenotyping}
 }
