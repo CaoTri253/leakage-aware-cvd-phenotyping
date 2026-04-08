@@ -20,15 +20,51 @@ This project utilizes a multi-source data integration approach:
    - [PhysioNet Core Link](https://physionet.org/content/mimiciv/3.1/)
 
 ## 🛠 Prerequisites & Modules
-The pipeline is built on Python 3.10+ and requires the following libraries:
 `xgboost`, `scikit-learn`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `optuna`, `shap`.
 
 **Core Pipeline Modules:**
 - **Module A (Labs):** Biomarker extraction and sparsity filtering.
 - **Module B (Text):** NLP-based feature extraction (TF-IDF) from clinical notes.
-- **Module C (Cardiac):** Specialized Regex-based extraction for LVEF and ECG patterns.
+- **Module C (Cardiac):** Specialized Regex-based extractionర్ for LVEF and ECG patterns.
 - **Module D (Demographics):** Integrated from MIMIC-IV Core tables.
 
+## 👥 Authors & Contributors
+
+### Core Research Team
+* **Dat Tan Nguyen** (Lead Researcher) 
+  [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--8301--4972-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0008-8301-4972)
+  - *Taipei Medical University | Can Tho University*
+* **Minh-Tri Cao** (Lead Developer) 
+  [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--9683--0053-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0005-9683-0053)
+  - *Independent Biomedical Researcher*
+* **Minh Huu Nhat Le** - *Taipei Medical University*
+* **Thu Minh Phung** [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--5111--232X-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0006-5111-232X)
+  - *Taipei Medical University | Can Tho University of Medicine and Pharmacy*
+
+### Collaborating Investigators
+* **Duy Viet Le** [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--5015--6838-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0007-5015-6838)
+  - *Uppsala University, Sweden*
+* **Tan Phat Huynh** [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--1650--713X-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0003-1650-713X)
+  - *National Taiwan University of Science and Technology*
+* **Ngoc-Nguyen Thi Nguyen** [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--8425--7650-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0008-8425-7650)
+  - *Can Tho Oncology Hospital*
+* **Quang-Hien Kha** - *Taipei Medical University*
+
+### Supervision & Corresponding Author
+* **Nguyen Quoc Khanh Le** (Principal Investigator)
+  - *Founder of AIBioMed Group, Taipei Medical University* - 📧 Email: [khanhlee@tmu.edu.tw](mailto:khanhlee@tmu.edu.tw)
+
+## 📜 Citation
+If you use this code or framework in your research, please cite our paper:
+
+```bibtex
+@article{nguyen2026leakage,
+  title={A Leakage-Aware, Clinically Constrained Machine Learning Framework for Multi-Class Cardiovascular Phenotyping from EHR Data},
+  author={Nguyen, Dat Tan and Cao, Minh-Tri and Le, Minh Huu Nhat and Phung, Thu Minh and Le, Duy Viet and Huynh, Tan Phat and Nguyen, Ngoc-Nguyen Thi and Kha, Quang-Hien and Le, Nguyen Quoc Khanh},
+  journal={To be submitted / Journal Name},
+  year={2026}
+}
+----
 ## 📧 Contact
 **Cao Trí** - Independent Biomedical Researcher  
 **ORCID:** [0009-0005-9683-0053](https://orcid.org/0009-0005-9683-0053)  
