@@ -25,7 +25,7 @@ This project utilizes a multi-source data integration approach:
 **Core Pipeline Modules:**
 - **Module A (Labs):** Biomarker extraction and sparsity filtering.
 - **Module B (Text):** NLP-based feature extraction (TF-IDF) from clinical notes.
-- **Module C (Cardiac):** Specialized Regex-based extractionర్ for LVEF and ECG patterns.
+- **Module C (Cardiac):** Specialized Regex-based extraction for LVEF and ECG patterns.
 - **Module D (Demographics):** Integrated from MIMIC-IV Core tables.
 
 ## 👥 Authors & Contributors
