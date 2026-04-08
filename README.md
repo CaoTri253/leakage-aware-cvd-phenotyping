@@ -57,9 +57,15 @@ This project utilizes a multi-source data integration approach:
 
 ---
 ## 📧 Contact
-**Cao Trí** - Independent Biomedical Researcher  
-**ORCID:** [0009-0005-9683-0053](https://orcid.org/0009-0005-9683-0053)  
-**Email:** minhtripro253@gmail.com
+
+For inquiries regarding **clinical methodology, cohort selection, and research logic**, please contact:
+* **Dat Tan Nguyen** (Lead Researcher): [d142114024@tmu.edu.tw](mailto:d142114024@tmu.edu.tw)
+
+For inquiries regarding **technical implementation, code maintenance, and reproduction**, please contact:
+* **Minh-Tri Cao** (Lead Developer): [minhtripro253@gmail.com](mailto:minhtripro253@gmail.com)
+
+For **official collaboration and administrative matters**, please contact the Corresponding Author:
+* **Nguyen Quoc Khanh Le** (Principal Investigator): [khanhlee@tmu.edu.tw](mailto:khanhlee@tmu.edu.tw)
 
 ## 📜 Citation
 If you use this code or framework in your research, please cite our paper:
