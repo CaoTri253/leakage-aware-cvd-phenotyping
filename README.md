@@ -36,7 +36,7 @@ This project utilizes a multi-source data integration approach:
   - *Taipei Medical University | Can Tho University*
 * **Minh-Tri Cao** (Lead Developer) 
   [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--9683--0053-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0005-9683-0053)
-  - *Independent Biomedical Researcher*
+  - *Independent Biomedical Researcher | Freelance AI developer*
 * **Minh Huu Nhat Le** - *Taipei Medical University*
 * **Thu Minh Phung** [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--5111--232X-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0006-5111-232X)
   - *Taipei Medical University | Can Tho University of Medicine and Pharmacy*
