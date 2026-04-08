@@ -54,6 +54,13 @@ This project utilizes a multi-source data integration approach:
 * **Nguyen Quoc Khanh Le** (Principal Investigator)
   - *Founder of AIBioMed Group, Taipei Medical University* - 📧 Email: [khanhlee@tmu.edu.tw](mailto:khanhlee@tmu.edu.tw)
 
+
+---
+## 📧 Contact
+**Cao Trí** - Independent Biomedical Researcher  
+**ORCID:** [0009-0005-9683-0053](https://orcid.org/0009-0005-9683-0053)  
+**Email:** minhtripro253@gmail.com
+
 ## 📜 Citation
 If you use this code or framework in your research, please cite our paper:
 
@@ -64,8 +71,3 @@ If you use this code or framework in your research, please cite our paper:
   journal={To be submitted / Journal Name},
   year={2026}
 }
-----
-## 📧 Contact
-**Cao Trí** - Independent Biomedical Researcher  
-**ORCID:** [0009-0005-9683-0053](https://orcid.org/0009-0005-9683-0053)  
-**Email:** minhtripro253@gmail.com
