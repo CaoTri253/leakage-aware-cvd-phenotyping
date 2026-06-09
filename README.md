@@ -5,7 +5,7 @@ Official implementation for our research on multi-class cardiovascular disease p
 ## 🚀 Reproduction
 You can reproduce the entire pipeline (from feature engineering to model evaluation) directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/114wWYSNA8vzeOpkITXqlRFIwOlwpqLWX?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MtNtAb1hW9k8onlkeFnikvxG5U_HcgsU?usp=sharing)
 
 ## 📁 Repository Structure
 * `notebooks/`: Contains the core research pipeline (`.ipynb`) with modules for Lab, Text, Cardiac, and Demographic features.
